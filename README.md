@@ -3,7 +3,7 @@
 Open Core 0.5.5
 macOS High Sierra 10.13.6
 
-## My config:
+## My config
 
 CPU: i7 3930K
 
@@ -15,10 +15,10 @@ GPU: Nvidia GTX 1080ti
 
 SSD: Corsair 250Gb
 
-## ACPI:
+## ACPI
 SSDT-HPET.aml
 
-## Patches:
+## Patches
 change EUSB to EH01, change USBE to EH02
 
 ## Kext
