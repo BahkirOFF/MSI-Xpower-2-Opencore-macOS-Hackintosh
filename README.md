@@ -4,15 +4,15 @@ Open Core 0.5.5 EFI for macOS High Sierra 10.13.6 and Catalina 10.15.3
 
 ## My config
 
-CPU: i7 3930K
+**CPU:** Intel i7 3930K
 
-MB: MSI Xpower II
+**MB:** MSI Xpower II
 
-RAM: 32GB 1600MHz (8x4)
+**RAM:** 32GB 1600MHz (8x4)
 
-GPU: Nvidia GTX 1080ti
+**GPU:** Nvidia GTX 1080ti
 
-SSD: Corsair 250Gb
+**SSD:** Corsair 250Gb
 
 ## ACPI
 SSDT-HPET.aml
