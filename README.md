@@ -1,4 +1,4 @@
-# Opencore 0.5.5 macOS MSI Xpower II (Xpower 2)
+# Opencore 0.5.5 EFI for MSI Xpower II (Xpower 2)
 
 ![Image](https://sun9-60.userapi.com/c857420/v857420692/1919ba/xsmozCcWno8.jpg)
 
