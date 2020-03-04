@@ -1,6 +1,6 @@
 # Opencore 0.5.5 macOS MSI Xpower II (Xpower 2)
 
-![Image](https://sun9-71.userapi.com/c855224/v855224692/20216c/LXhhrJDqkn4.jpg)
+![Image](https://sun9-46.userapi.com/c855224/v855224692/20217d/ECHOoOmhTq8.jpg)
 
 Open Core 0.5.5 EFI for macOS High Sierra 10.13.6 and Catalina 10.15.3
 
