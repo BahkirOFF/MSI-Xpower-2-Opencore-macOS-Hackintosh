@@ -11,7 +11,7 @@ Not ideal, but it works
 
 **MB:** MSI Xpower II
 
-**RAM:** 32GB 1600MHz (8x4)
+**RAM:** 32GB 1600MHz (8Gbx4)
 
 **GPU:** Nvidia GTX 1080ti
 
