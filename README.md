@@ -2,7 +2,8 @@
 
 ![Image](https://sun9-60.userapi.com/c857420/v857420692/1919ba/xsmozCcWno8.jpg)
 
-Open Core 0.5.5 EFI for macOS High Sierra 10.13.6 and Catalina 10.15.3
+My Open Core 0.5.5 EFI for macOS High Sierra 10.13.6 and Catalina 10.15.3
+Not ideal, but it works
 
 ## My config
 
