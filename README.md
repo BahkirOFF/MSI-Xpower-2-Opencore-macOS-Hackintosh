@@ -8,25 +8,12 @@ ACPI:
 SSDT-HPET.aml
 
 Patches:
-change EUSB to EH01
-change USBE to EH02
+change EUSB to EH01, change USBE to EH02
 
-Kext:
-Lilu
-VirtualSMC
-AppleALC
-WhateverGreen
-USBInjectAll
-SMCProcessor
-SMCSuperIO
-IntelMausiEthernet
-VoodooTSCSync
-FakePCIID
-GenericUSBXHCI
+Kext: Lilu, VirtualSMC, AppleALC, WhateverGreen, USBInjectAll, SMCProcessor, SMCSuperIO, IntelMausiEthernet, VoodooTSCSync, FakePCIID, GenericUSBXHCI
 
 Kernel patches:
-USB 10.13.6+ by PMHeart
-AppleUSBXHCIPCI
+USB 10.13.6+ by PMHeart, AppleUSBXHCIPCI
 
 Boot args:
 -v debug=0x100 keepsyms=1 npci=0x2000 alcid=1
